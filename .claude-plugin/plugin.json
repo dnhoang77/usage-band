@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Thanh hạn mức Claude phía trên ô chat: % còn lại của phiên 5 giờ và tuần, thời gian reset, dự đoán lúc cạn, số ngày còn lại trong tháng",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

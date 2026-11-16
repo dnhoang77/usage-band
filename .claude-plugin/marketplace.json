@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "owner": { "name": "usage-band" },
+  "plugins": [
+    { "name": "usage-band", "source": "./", "description": "Thanh hạn mức Claude (phiên 5 giờ, tuần) phía trên ô chat Claude Code" }
+  ]
+}
